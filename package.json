@@ -1,0 +1,17 @@
+{
+    "name": "unity-renderer",
+    "version": "1.0.0",
+    "displayName": "DCL Unity Renderer",
+    "description": "Decentraland Unity Renderer Package",
+    "unity": "2020.3",
+    "unityRelease": "0f1",
+    "dependencies": {
+    },
+    "keywords": [
+    ],
+    "author": {
+        "name": "Decentraland",
+        "email": "contact@decentraland.org",
+        "url": "https://www.decentraland.org"
+    }
+}

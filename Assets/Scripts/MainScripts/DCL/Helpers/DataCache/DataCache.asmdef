@@ -1,0 +1,17 @@
+{
+    "name": "DataCache",
+    "rootNamespace": "",
+    "references": [
+        "GUID:760a1d365aad58044916992b072cf2a6",
+        "GUID:3f4c1b4f55716479ea104c4254afe172"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
