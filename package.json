@@ -1,5 +1,5 @@
 {
-    "name": "unity-renderer-upm",
+    "name": "com.decentraland.unity-renderer",
     "version": "1.0.1",
     "displayName": "DCL Unity Renderer",
     "description": "Decentraland Unity Renderer Package",
