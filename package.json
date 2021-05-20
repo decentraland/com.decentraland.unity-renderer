@@ -1,6 +1,6 @@
 {
     "name": "unity-renderer-upm",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "DCL Unity Renderer",
     "description": "Decentraland Unity Renderer Package",
     "unity": "2020.3",
