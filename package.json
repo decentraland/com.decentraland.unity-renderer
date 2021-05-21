@@ -6,7 +6,7 @@
     "unity": "2020.3",
     "unityRelease": "0f1",
     "dependencies": {
-        "com.coffee.ui-particle": "https://github.com/mob-sakai/ParticleEffectForUGUI.git",
+        "com.coffee.ui-particle": "https://github.com/mob-sakai/ParticleEffectForUGUI.git#3.3.6",
         "com.unity.2d.sprite": "1.0.0",
         "com.unity.2d.tilemap": "1.0.0",
         "com.unity.cinemachine": "2.5.0",
@@ -25,7 +25,7 @@
         "com.unity.timeline": "1.4.6",
         "com.unity.ugui": "1.0.0",
         "com.unity.xr.legacyinputhelpers": "2.1.7",
-        "net.tnrd.nsubstitute": "https://github.com/decentraland/Unity3D-NSubstitute.git",
+        "net.tnrd.nsubstitute": "https://github.com/decentraland/Unity3D-NSubstitute.git#4.2.2",
         "com.unity.modules.androidjni": "1.0.0",
         "com.unity.modules.animation": "1.0.0",
         "com.unity.modules.assetbundle": "1.0.0",
