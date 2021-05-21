@@ -54,8 +54,11 @@
         "com.unity.modules.vr": "1.0.0",
         "com.unity.modules.xr": "1.0.0"
     },
-    "keywords": [
-    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/decentraland/com.decentraland.unity-renderer.git"
+    },
+    "keywords": [],
     "author": {
         "name": "Decentraland",
         "email": "contact@decentraland.org",
